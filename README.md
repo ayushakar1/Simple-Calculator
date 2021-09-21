@@ -3,5 +3,8 @@
 This is a simple calculator using HTML, CSS, JS
 
 Background image is extracted from pintrest.
-The apprereance: 
+
+The appearance:
+
+<img src="Preview.png" width="100%">
 
